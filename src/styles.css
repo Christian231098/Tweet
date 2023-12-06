@@ -1,0 +1,51 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* styles.css */
+.myContainer {
+  width: 80%; /* Puedes ajustar el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Agrega un relleno alrededor del contenido del contenedor */
+  background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+  border: 1px solid #44dd88; /* Agrega un borde alrededor del contenedor */
+  box-sizing: border-box; /* Incluye el borde y el relleno en el ancho y alto total del contenedor */
+  border-width: 10px;
+}
+
+.myContainer1 {
+  width: 80%; /* Puedes ajustar el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Agrega un relleno alrededor del contenido del contenedor */
+  background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+  border: 1px solid #87ceeb; /* Agrega un borde alrededor del contenedor */
+  box-sizing: border-box; /* Incluye el borde y el relleno en el ancho y alto total del contenedor */
+  border-width: 10px;
+}
+.myContainer2 {
+  width: 80%; /* Puedes ajustar el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Agrega un relleno alrededor del contenido del contenedor */
+  background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+  border: 1px solid #ffc34a; /* Agrega un borde alrededor del contenedor */
+  box-sizing: border-box; /* Incluye el borde y el relleno en el ancho y alto total del contenedor */
+  border-width: 10px;
+}
+.myContainer3 {
+  width: 90%; /* Puedes ajustar el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Agrega un relleno alrededor del contenido del contenedor */
+  background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+  border: 1px solid #ffcaaf; /* Agrega un borde alrededor del contenedor */
+  box-sizing: border-box; /* Incluye el borde y el relleno en el ancho y alto total del contenedor */
+  border-width: 10px;
+}
+.myContainer4 {
+  width: 150%; /* Puedes ajustar el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el contenedor horizontalmente */
+  padding: 20px; /* Agrega un relleno alrededor del contenido del contenedor */
+  background-color: #f0f0f0; /* Ajusta el color de fondo según tus preferencias */
+  border: 1px solid #c99afc; /* Agrega un borde alrededor del contenedor */
+  box-sizing: border-box; /* Incluye el borde y el relleno en el ancho y alto total del contenedor */
+  border-width: 10px;
+}
